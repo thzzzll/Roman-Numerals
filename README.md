@@ -1,6 +1,6 @@
 # Roman Numerals
 
-##Summary
+## Summary
 
 We're going to write a method that converts an integer to its Roman numeral equivalent. In other words, if we give our method the Arabic number 476, our method will return the Roman numeral CDLXXVI.
 
@@ -24,9 +24,9 @@ Has anyone ever seen a 5? Not a symbol we write on a piece of paper or print to 
 Think of all the ways to represent the integer 5.  Symbols like *5*, *five*, *V*, and *IIIII* all ways to represent 5. If we asked a three-year-old, they might hold up the five fingers on their hand or pull out five pennies from their pocket. Computers encode numbers their own way, as a sequence of 0s and 1s called [binary](http://en.wikipedia.org/wiki/Binary_number).  [The map is not the territory](http://en.wikipedia.org/wiki/Map%E2%80%93territory_relation), as they say.
 
 
-##Releases
+## Releases
 
-###Release 0 : Old Roman Numerals
+### Release 0 : Old Roman Numerals
 
 | Arabic Number  | Roman Numeral |
 | -------------- | ------------- |
